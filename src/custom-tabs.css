@@ -1,0 +1,4 @@
+.custom-tabs .ant-tabs-nav::before {
+    background-color: transparent;
+    position: relative;
+  }
